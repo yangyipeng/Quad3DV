@@ -22,7 +22,11 @@ attitude tracking random signals from RC
 
 
 
-https://user-images.githubusercontent.com/14845756/172768792-f9d9465e-67d6-4ad0-b4c7-381186df8db5.mp4
+
+https://user-images.githubusercontent.com/14845756/172773246-aba8cd08-9994-4272-a8cb-449283c095d1.mp4
+
+
+
 
 
  
