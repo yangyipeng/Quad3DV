@@ -24,7 +24,8 @@ https://user-images.githubusercontent.com/14845756/172319733-a3100317-61e8-4f30-
 
 ### attitude tracking random signals from RC (Video is played at double speed): 
 
-https://user-images.githubusercontent.com/14845756/172788548-72f3e18e-585e-4998-bd5c-63080c6ff2e1.mp4
+
+https://user-images.githubusercontent.com/14845756/173357097-2bccb6cf-85f8-4454-b5a3-ab17533d2188.mov
 
 
 
