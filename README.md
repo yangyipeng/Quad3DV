@@ -1,4 +1,5 @@
 # Quad3DV
+ Quad3DV is a overactuated multirotor actuated by four rotors with two tilt directions.
  
 ![Quad3DV](Quad3DV.png) 
  
