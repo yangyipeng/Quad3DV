@@ -1,9 +1,13 @@
 # Quad3DV
  Quad3DV is a overactuated multirotor actuated by four rotors with two tilt directions.
  
-![Quad3DV](Quad3DV.png) 
  
-![Quad3DV_Flight]([E_flight.png.png](https://github.com/yangyipeng/Quad3DV/blob/main/E_flight.png))
+ 
+![Quad3DV](https://user-images.githubusercontent.com/14845756/231378552-7deac8a0-4624-4629-b1ef-17283b80d969.png)
+
+![Quad3DV_Flight](https://user-images.githubusercontent.com/14845756/231378433-ec5b9451-9e01-4485-b251-e615a65019de.png)
+
+
 ## 1 Videos of the real experiments given in the papar:
 
 A New Overactuated Multirotor: Prototype Design, Dynamics Modeling, and Control
