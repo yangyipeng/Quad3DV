@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/14845756/231388317-14c31fd5-a6fa-4752-
 
 
 
-## 1 Videos of the real experiments given in the papar:
+## More real experiments:
 
 A New Overactuated Multirotor: Prototype Design, Dynamics Modeling, and Control
 
@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/14845756/172319733-a3100317-61e8-4f30-
 ![07-Jun-2022@17_53_23](https://user-images.githubusercontent.com/14845756/172351959-0324385c-9373-4995-9215-a8949980ff50.gif)
 
 
-## 3 More real experiments：
+## More real experiments：
 
 ### attitude tracking random signals from RC (Video is played at double speed): 
 
